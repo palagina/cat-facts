@@ -1,0 +1,27 @@
+  /* main container */
+  #root > div{
+    width: 70%;
+    margin: 2%;
+  }
+
+  /* List and spinner container */
+  #root > div > div:nth-child(2){
+    height: 300px;
+    margin: 10px;
+  }
+
+  /* fact list */
+  #root > div > div:nth-child(2) > div.ui.animated.middle.aligned.list{
+    width: 100%;
+    color: grey;
+    font-size: 15px;
+    height: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* Load spinner */
+  #root > div > div:nth-child(2) > div.ui.segment{
+    height: 300px;
+    border: none;
+  }
