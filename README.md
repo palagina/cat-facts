@@ -5,3 +5,4 @@ User interface styled with SemanticUI
 
 ![](src/images/demo.png)
 
+Deployed on Heroku here https://cat-facts-react.herokuapp.com/
